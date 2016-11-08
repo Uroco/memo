@@ -1,22 +1,3 @@
-#import "CommonDefine.h"
-#import "AnotherWorldScene.h"
-#import "FixedValue.h"
-#import "Enemy.h"
-#import "BGManager.h"
-#import "ScrollBG.h"
-#import "EnemyAnimationCluster.h"
-#import "NFNumberLayer.h"
-#import "BomEnemy.h"
-#import "Boss.h"
-#import "EnemyAnimationCluster.h"
-#import "GameScene.h"
-#import "Buddy.h"
-#import "BuddyAnimationCluster.h"
-#import "Player.h"
-#import "PlayerAnimationCluster.h"
-#import "DistanceManager.h"
-#import "EffectFactory.h"
-
 
 using namespace cocos2d;
 #define FIRST_MODE 1 //0:Player 1:Buddy 2:Boss 3:Enemy
